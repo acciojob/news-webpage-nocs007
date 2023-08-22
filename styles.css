@@ -14,7 +14,7 @@ body{
 	background:#011e29;
 	color:white;
 }
-.col-1{
+.latest-news-section{
 	
 	width:20%;
 	background:white;
@@ -30,7 +30,7 @@ body{
 	text-align:center;
 	padding:10px;
 }
-.col-3{
+.pictorial-news-section{
 	
 	width:20%;
 	background:white;
