@@ -1,1 +1,41 @@
-/*  your css code here. If applicable */
+body{
+	background:#f5f5f5;
+}
+.main{
+	display:flex;
+	justify-content:space-evenly;
+}
+.nav{
+	border:1px solid black;
+	text-align:center;
+	padding:10px;
+	box-sizing:border-box;
+	background:#011e29;
+	color:white;
+}
+.col-1{
+	border:1px solid black;
+	width:20%;
+	background:white;
+	border-radius:10px;
+	text-align:center;
+}
+.col-2{
+	border:1px solid black;
+	width:40%;
+	background:white;
+	border-radius:10px;
+	text-align:center;
+}
+.col-3{
+	border:1px solid black;
+	width:20%;
+	background:white;
+	border-radius:10px;
+	text-align:center;
+}
+img{
+	width:70%;
+	padding:20px;
+	
+}
